@@ -1,0 +1,82 @@
+.a {
+    margin: 3%;
+    
+}
+
+.upvote {
+    float: right;
+    width: 110px;
+}
+
+.upvote:active {
+    float: right;
+    background-color: lightblue;
+}
+
+.c {
+    width: 90%;
+}
+
+.linkBut {
+    margin: none;
+    border: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: #8db6d9;
+    height: 50px;
+}
+
+.poems {
+    width: 60%;
+    margin: auto;
+}
+.bt {
+    margin: 6px;
+    border: none;
+}
+.navbut {
+    width:100px;
+    float:left
+}
+
+.poemList {
+    background-color: #efedff;
+    margin: 20px;
+    padding: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.sub {
+    width: 50%;
+    padding: 3px;
+    margin: auto;
+    background-color: #fce8f7;
+    height: 100vh;
+}
+
+form {
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+}
+
+html, body, #root, #mid {
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.single {
+    background-color: #efedff;
+    padding: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 60%;
+    margin: auto;
+    margin-top: 30px;
+}
+
